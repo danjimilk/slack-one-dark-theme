@@ -8,11 +8,11 @@
   --background-elevated: #3B4048;
   /* These should be less important: */
   --background-hover: #525964;
-  --background-light: #AAA;
-  --background-bright: #FFF;
+  --background-light: #999;
+  --background-bright: #BBB;
   --border-dim: #666;
   --border-bright: var(--primary);
-  --text-bright: #FFF;
+  --text-bright: #BBB;
   --text-dim: #555c69;
   --text-special: var(--primary);
   --text-accent: var(--text-bright);
@@ -1297,13 +1297,13 @@ ts-thread .view_all_replies_container:hover {
   color: #0f0; }
 
 .cm-negative {
-  color: #f44; }
+  color: #ccc; }
 
 .cm-positive {
   color: #2f2; }
 
 .cm-s-default .cm-keyword {
-  color: #f0a; }
+  color: #c0a; }
 
 .cm-s-default .cm-atom {
   color: #7ff; }
@@ -1321,13 +1321,13 @@ ts-thread .view_all_replies_container:hover {
   color: #0fa; }
 
 .cm-s-default .cm-comment {
-  color: #f80; }
+  color: #c80; }
 
 .cm-s-default .cm-string {
-  color: #f33; }
+  color: #c33; }
 
 .cm-s-default .cm-string-2 {
-  color: #f50; }
+  color: #c50; }
 
 .cm-s-default .cm-meta, .cm-s-default .cm-qualifier {
   color: #aaa; }
@@ -1336,7 +1336,7 @@ ts-thread .view_all_replies_container:hover {
   color: #96f; }
 
 .cm-s-default .cm-bracket {
-  color: #ffa; }
+  color: #cca; }
 
 .cm-s-default .cm-tag {
   color: #5f0; }
